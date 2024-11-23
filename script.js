@@ -3,7 +3,7 @@ var ATH = 0
 var nextbValue = 10000
 var curMcap = 5000
 
-var tokenCa = ''
+var tokenCa = '6QV4UwMbUvDfLJDhWE8hh2vMo8bxubqKCp2AjZaXpump'
 
 if(tokenCa == ''){
     caLabel.textContent('Launching now, site will be functional shortly')
